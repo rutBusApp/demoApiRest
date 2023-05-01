@@ -1,0 +1,10 @@
+com\wall\apirestdemo\el\Task.class
+com\wall\apirestdemo\resources\JakartaEE9Resource.class
+com\wall\apirestdemo\bll\TaskDAO.class
+com\wall\apirestdemo\sdp\Action.class
+com\wall\apirestdemo\JakartaRestConfiguration.class
+com\wall\apirestdemo\ctrl\Controller.class
+com\wall\apirestdemo\service\TaskService.class
+com\wall\apirestdemo\sdp\ActionFactory.class
+com\wall\apirestdemo\service\RqUtil.class
+com\wall\apirestdemo\bll\BLL_TaskAdd.class
